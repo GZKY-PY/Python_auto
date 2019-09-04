@@ -7,7 +7,7 @@ import time
 class Pywin(object):
     """
     tool_name : 程序名称，支持带路径
-    windows_name : 窗口名字
+    windows_name : 窗口名字, 有时候会没有
     """
     SLEEP_TIME = 1
 
